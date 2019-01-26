@@ -22,7 +22,7 @@ The repository is structured as follows:
 
 An interactive visualisation of the clustered metabolites can be found [here](https://cparrarojas.github.io/blog/2019/02/geographical-chemotypes/). By hovering over a given node, you can see the metabolite retention time and m/z ratio, as shown below.
 
-<p align="center"><img src="./imgs/clusters.gif" align=middle width=800px alt="animation clusters"></p>
+<p align="center"><img src="./imgs/clusters.gif" align=middle width=1000px alt="animation clusters"></p>
 
 Change the correlation threshold to visualise the different sets of clusters.
 
