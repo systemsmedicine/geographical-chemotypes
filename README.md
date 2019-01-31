@@ -1,6 +1,6 @@
 ## Geographical chemotypes
 
-This repository contains the accompanying code to the paper [*Focused natural product elucidation by prioritizing high-throughput metabolomic studies with machine learning*](https://biorxiv.org) by Tobias _et al._
+This repository contains the accompanying code to the paper [*Focused natural product elucidation by prioritizing high-throughput metabolomic studies with machine learning*](https://www.biorxiv.org/content/10.1101/535781v1) by Tobias _et al._
 
 We train a [gradient boosting model](#resources) to classify bacterial metabolite data obtained from soil samples into corresponding to _Photorhabdus_ or _Xenorhabdus_. In conjunction with a [recently-developed feature attribution approach](#resources), we determine the most relevant features that set these two genera apart.
 
